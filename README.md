@@ -1,3 +1,3 @@
 # 20171CSE0166
-It lab
+IT lab
 welcome
