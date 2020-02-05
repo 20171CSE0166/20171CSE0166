@@ -1,0 +1,24 @@
+p{
+background-color:lightblue;
+}
+
+u{
+font-style:italic;
+}
+table{
+    border-color:red;
+}
+TD{
+    TEXT-ALIGN:CENTER;
+}
+TH{
+    BACKGROUND-COLOR:LIGHTBLUE;
+}
+table{
+    border-collapse: collapse;
+}
+body{
+    background-color: lightyellow;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+}
